@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/FiercePC/Desktop/paint/build",
+  "command": "C:\\PROGRA~1\\C__COM~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/glad.dir/includes_C.rsp -g -std=gnu17 -o CMakeFiles\\glad.dir\\libraries\\glad\\src\\glad.c.obj -c C:\\Users\\FiercePC\\Desktop\\paint\\libraries\\glad\\src\\glad.c",
+  "file": "C:/Users/FiercePC/Desktop/paint/libraries/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/libraries/glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/FiercePC/Desktop/paint/build",
+  "command": "C:\\PROGRA~1\\C__COM~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/paint.dir/includes_C.rsp -g -std=gnu17 -o CMakeFiles\\paint.dir\\src\\App.c.obj -c C:\\Users\\FiercePC\\Desktop\\paint\\src\\App.c",
+  "file": "C:/Users/FiercePC/Desktop/paint/src/App.c",
+  "output": "CMakeFiles/paint.dir/src/App.c.obj"
+},
+{
+  "directory": "C:/Users/FiercePC/Desktop/paint/build",
+  "command": "C:\\PROGRA~1\\C__COM~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/paint.dir/includes_C.rsp -g -std=gnu17 -o CMakeFiles\\paint.dir\\src\\Canvas.c.obj -c C:\\Users\\FiercePC\\Desktop\\paint\\src\\Canvas.c",
+  "file": "C:/Users/FiercePC/Desktop/paint/src/Canvas.c",
+  "output": "CMakeFiles/paint.dir/src/Canvas.c.obj"
+},
+{
+  "directory": "C:/Users/FiercePC/Desktop/paint/build",
+  "command": "C:\\PROGRA~1\\C__COM~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/paint.dir/includes_C.rsp -g -std=gnu17 -o CMakeFiles\\paint.dir\\src\\InputHandler.c.obj -c C:\\Users\\FiercePC\\Desktop\\paint\\src\\InputHandler.c",
+  "file": "C:/Users/FiercePC/Desktop/paint/src/InputHandler.c",
+  "output": "CMakeFiles/paint.dir/src/InputHandler.c.obj"
+},
+{
+  "directory": "C:/Users/FiercePC/Desktop/paint/build",
+  "command": "C:\\PROGRA~1\\C__COM~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/paint.dir/includes_C.rsp -g -std=gnu17 -o CMakeFiles\\paint.dir\\src\\Main.c.obj -c C:\\Users\\FiercePC\\Desktop\\paint\\src\\Main.c",
+  "file": "C:/Users/FiercePC/Desktop/paint/src/Main.c",
+  "output": "CMakeFiles/paint.dir/src/Main.c.obj"
+},
+{
+  "directory": "C:/Users/FiercePC/Desktop/paint/build",
+  "command": "C:\\PROGRA~1\\C__COM~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/paint.dir/includes_C.rsp -g -std=gnu17 -o CMakeFiles\\paint.dir\\src\\Shader.c.obj -c C:\\Users\\FiercePC\\Desktop\\paint\\src\\Shader.c",
+  "file": "C:/Users/FiercePC/Desktop/paint/src/Shader.c",
+  "output": "CMakeFiles/paint.dir/src/Shader.c.obj"
+},
+{
+  "directory": "C:/Users/FiercePC/Desktop/paint/build",
+  "command": "C:\\PROGRA~1\\C__COM~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/paint.dir/includes_C.rsp -g -std=gnu17 -o CMakeFiles\\paint.dir\\src\\Renderer.c.obj -c C:\\Users\\FiercePC\\Desktop\\paint\\src\\Renderer.c",
+  "file": "C:/Users/FiercePC/Desktop/paint/src/Renderer.c",
+  "output": "CMakeFiles/paint.dir/src/Renderer.c.obj"
+}
+]
