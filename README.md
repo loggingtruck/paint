@@ -12,6 +12,9 @@
 
 <h2>Method 1: Using GCC Directly from Terminal (Windows Only)</h2>
 <ol>
+  <li>clone URL: https://github.com/loggingtruck/paint.git
+  <pre><code> git clone https://github.com/loggingtruck/paint.git </code></pre></li>
+  
   <li>Navigate to the paint folder:
     <pre><code>cd paint</code></pre>
   </li> 
@@ -34,15 +37,17 @@
   </li>
 </ol>
 
-<h2>Method 2: Using CMake (Cross-Platform)</h2>
+<h2>Method 2: Using CMake from terminal (Cross-Platform)</h2>
 <ol>
+  <li>clone URL: https://github.com/loggingtruck/paint.git
+  <pre><code> git clone https://github.com/loggingtruck/paint.git </code></pre></li>
   <li>Download CMake: <a href="https://cmake.org/download/">https://cmake.org/download/</a> and install it.</li>
   <li>Navigate to the paint folder:
     <pre><code>cd paint</code></pre>
   </li>
   
   <li>Create a build directory:
-    <pre><code>mkdir build
+    <pre><code>mkdir build 
 cd build</code></pre>
   </li>
 
