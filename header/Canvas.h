@@ -10,7 +10,7 @@
 #define COLOR_WHITE 0
 #define COLOR_BLACK 1
 
-typedef struct Canvas {
+typedef struct Canvas { // &Canvas -> struct Canvas
     int data[CANVAS_SIZE][CANVAS_SIZE];
     int size;
 } Canvas;

@@ -32,3 +32,4 @@ bool canvas_is_valid_coord(Canvas* canvas, int x, int y) {
 void canvas_cleanup(Canvas* canvas) {
     //TOOD (very unlikely to do :) )
 }
+

@@ -1,4 +1,0 @@
-C:/Users/FiercePC/Desktop/paint/build/CMakeFiles/glad.dir
-C:/Users/FiercePC/Desktop/paint/build/CMakeFiles/paint.dir
-C:/Users/FiercePC/Desktop/paint/build/CMakeFiles/edit_cache.dir
-C:/Users/FiercePC/Desktop/paint/build/CMakeFiles/rebuild_cache.dir

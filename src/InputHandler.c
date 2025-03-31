@@ -41,8 +41,6 @@ void input_handler_process_keyboard(InputHandler* handler) {
     if (app_is_key_pressed(handler->app, GLFW_KEY_ESCAPE)) {
         glfwSetWindowShouldClose(handler->app->window, true);
     }
-    
-    // Add more keyboard shortcuts here as needed
 }
 
 // Convert window coordinates to canvas grid coordinates
