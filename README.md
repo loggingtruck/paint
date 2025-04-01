@@ -37,6 +37,9 @@
   </li>
 </ol>
 
+<h3> Video instruction is in main repository under mp4 file: </h3> 
+<code> Method_1_Instruction.mp4 </code>
+
 <h2>Method 2: Using CMake from terminal (Cross-Platform)</h2>
 <ol>
   <li>clone URL: https://github.com/loggingtruck/paint.git
@@ -67,3 +70,6 @@ cd build</code></pre>
 
 <h3>Linux/macOS:</h3>
 <pre><code>./paint</code></pre>
+
+<h3> Video instruction is in main repository under mp4 file: </h3> 
+<code> Method_2_Instruction.mp4 </code>
