@@ -10,7 +10,7 @@
   <li>CMake (optional but recommended)</li>
 </ol>
 
-<h2>Method 1: Using GCC Directly from Terminal (Windows Only)</h2>
+<h2>Method 1: Using GCC Directly from Terminal (GCC Only. Seek method 2 for alternatives)</h2>
 <ol>
   <li>clone URL: https://github.com/loggingtruck/paint.git
   <pre><code> git clone https://github.com/loggingtruck/paint.git </code></pre></li>
@@ -40,7 +40,7 @@
 <h3> Video instruction is in main repository under mp4 file: </h3> 
 <code> Method_1_Instruction.mp4 </code>
 
-<h2>Method 2: Using CMake from terminal (Cross-Platform)</h2>
+<h2>Method 2: Using CMake from terminal (Cross-Platform + all compiler supported)</h2>
 <ol>
   <li>clone URL: https://github.com/loggingtruck/paint.git
   <pre><code> git clone https://github.com/loggingtruck/paint.git </code></pre></li>
