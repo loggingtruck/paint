@@ -1,5 +1,6 @@
 <h1>Paint Application</h1>
-<p>Instructions on how to compile and run the Paint application, a simple graphics application built with OpenGL, GLFW, and GLAD.</p>
+<p>OpenGL tutorials that helped me make the paint game: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M- </p>
+<p>Instructions on how to compile and run the Paint application, a simple graphics application built with OpenGL, GLFW, and GLAD.</p> <br>
 
 <h1>Prerequisites</h1>
 <p>Before compiling the app, the following must be installed:</p>
